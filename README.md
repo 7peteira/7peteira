@@ -2,6 +2,6 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,php,robloxstudio,unreal,ts,rust" />
+    <img src="https://skillicons.dev/icons?i=js,php,robloxstudio,unreal,ts,rust,supabase,postgres,lua,nodejs,tauri,express" />
   </a>
 </p>
