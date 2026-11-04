@@ -1,1 +1,2 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=7peteira&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=7peteira&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=7peteira&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=7peteira&langs_count=4&theme=dark_github)
